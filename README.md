@@ -9,11 +9,26 @@ Claim multiple account's daily reward without having to go to the website one by
 
 
 ## Usage/Examples
-Or you can instead create a bat file so you dont have to run it using command prompt.
-
+First add accounts to the `accounts.json`, scroll down for more information about adding accounts.
 ```python
 python -m launcher.py
 ```
+Or you can instead create a bat file so you dont have to run it using command prompt.
+
+
+
+
+## Running with bat file
+To make it easier running the file, you can use bat file to run this, for example:
+```bat
+@echo off
+Title Hoyolab Daily Reward Claimer
+cls
+echo "Starting up"
+cd "Path to your python interpreter"
+python setup.py
+```
+
 
 
 
@@ -56,6 +71,9 @@ You can customize it or even add more accounts like this.
 3. Press F12 to open Inspect Mode (ie. Developer Tools). 
 4. Go to Application, Cookies, https://www.hoyolab.com.
 5. Copy ltuid and ltoken.
+
+
+
 ## Authors
 
 - [@Cedrugs](https://github.com/Cedrugs)

@@ -10,8 +10,8 @@ Claim multiple account's daily reward without having to go to the website one by
 
 ## Features
 
-- Claim your Hoyolab reward without opening the website
-- Ability to claim multiple accounts at the same time
+- Claim your Hoyolab reward without opening the website using browser
+- Claim multiple accounts reward
 
 
 
@@ -30,11 +30,9 @@ Or you can instead create a bat file so you dont have to run it using command pr
 To make it easier running the file, you can use bat file to run this, for example:
 ```bat
 @echo off
-Title Hoyolab Daily Reward Claimer
-cls
-echo "Starting up"
-cd "path to your python interpreter"
-python setup.py
+echo Claiming daily rewards..
+python launcher.py
+pause
 ```
 
 

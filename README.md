@@ -8,6 +8,20 @@ Claim multiple account's daily reward without having to go to the website one by
 
 
 
+## Authors
+
+- [@Cedrugs](https://github.com/Cedrugs)
+
+
+
+## Features
+
+- Claim your Hoyolab reward without opening the website
+- Ability to claim multiple accounts at the same time
+
+
+
+
 ## Usage/Examples
 First add accounts to the `accounts.json`, [click here](https://github.com/Cedrugs/hoyolab-daily-reward-claimer#adding-accounts) for more information about adding accounts.
 ```python
@@ -28,14 +42,6 @@ echo "Starting up"
 cd "path to your python interpreter"
 python setup.py
 ```
-
-
-
-
-## Features
-
-- Claim your Hoyolab reward without opening the website
-- Ability to claim multiple accounts at the same time
 
 
 
@@ -73,10 +79,6 @@ You can customize it or even add more accounts like this.
 5. Copy ltuid and ltoken.
 
 
-
-## Authors
-
-- [@Cedrugs](https://github.com/Cedrugs)
 
 
 ## License

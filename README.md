@@ -25,7 +25,7 @@ To make it easier running the file, you can use bat file to run this, for exampl
 Title Hoyolab Daily Reward Claimer
 cls
 echo "Starting up"
-cd "Path to your python interpreter"
+cd path to your python interpreter
 python setup.py
 ```
 

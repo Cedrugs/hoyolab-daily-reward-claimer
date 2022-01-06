@@ -8,12 +8,6 @@ Claim multiple account's daily reward without having to go to the website one by
 
 
 
-## Authors
-
-- [@Cedrugs](https://github.com/Cedrugs)
-
-
-
 ## Features
 
 - Claim your Hoyolab reward without opening the website
@@ -77,6 +71,13 @@ You can customize it or even add more accounts like this.
 3. Press F12 to open Inspect Mode (ie. Developer Tools). 
 4. Go to Application, Cookies, https://www.hoyolab.com.
 5. Copy ltuid and ltoken.
+
+
+
+
+## Authors
+
+- [@Cedrugs](https://github.com/Cedrugs)
 
 
 

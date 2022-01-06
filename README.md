@@ -9,7 +9,7 @@ Claim multiple account's daily reward without having to go to the website one by
 
 
 ## Usage/Examples
-First add accounts to the `accounts.json`, scroll down for more information about adding accounts.
+First add accounts to the `accounts.json`, [click here](https://github.com/Cedrugs/hoyolab-daily-reward-claimer#adding-accounts) for more information about adding accounts.
 ```python
 python -m launcher.py
 ```
